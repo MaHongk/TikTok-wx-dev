@@ -1,0 +1,6 @@
+com\stu\service\BgmService.class
+com\stu\service\VideoService.class
+com\stu\service\impl\BgmServiceImpl.class
+com\stu\service\impl\UserServiceImpl.class
+com\stu\service\impl\VideoServiceImpl.class
+com\stu\service\UserService.class

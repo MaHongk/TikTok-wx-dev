@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="video-dev-common" />
+        <module name="video-dev-mapper" />
+        <module name="video-dev-mini-api" />
+        <module name="video-dev-pojo" />
+        <module name="video-dev-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis-generatorConfig" target="1.5" />
+      <module name="video-admin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

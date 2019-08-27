@@ -1,0 +1,14 @@
+com\stu\WarStartApplication.class
+com\stu\controller\BgmController.class
+com\stu\controller\RegistLoginController.class
+com\stu\controller\VideoController.class
+com\stu\cofig\ResourceConfig.class
+com\stu\controller\UserController.class
+com\stu\controller\BasicController.class
+com\stu\controller\interceptor\MiniIntercepto.class
+com\stu\WebMvcConfig.class
+com\stu\Application.class
+com\stu\Swagger2.class
+com\stu\ZKCuratorClient.class
+com\stu\controller\HelloWorldController.class
+com\stu\ZKCuratorClient$1.class

@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine",
+      "pages/chooseBgm/chooseBgm",
+    
+    "pages/report/report",
+    "pages/userLogin/login",
+    
+    "pages/videoinfo/videoinfo",
+  
+    "pages/userRegist/regist",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "阿凯短视频",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true
+}
